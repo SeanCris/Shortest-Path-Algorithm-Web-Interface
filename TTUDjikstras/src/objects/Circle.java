@@ -51,7 +51,7 @@ public class Circle {
         return xy;
     }
 
-    //////// GETTING CIRCLES PATH
+    //////// GETTING/SETTING CIRCLES PATH
 
     public List<Circle> getPath() {
         return path;
